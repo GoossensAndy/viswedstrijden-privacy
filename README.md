@@ -55,40 +55,7 @@
       <h2>Met wie we gegevens delen</h2>
       <p>Supabase bewaart de database en de accounts voor ons. We hosten de database in de Europese Unie.</p>
       <p>De kaart: op een iPhone toont de app de kaart van Apple, op Android de kaart van OpenStreetMap. Daarbij ontvangt de aanbieder van de kaart technische gegevens zoals je IP-adres, volgens zijn eigen privacybeleid. Een bezoek aan de kaart laadt ook een onderdeel (Leaflet) van de dienst unpkg.com.</p>
-      <p>Verder delen we niets met derden.</p>
-    </section>
-    <section>
-      <h2>Hoe lang we gegevens bewaren</h2>
-      <p>Zolang je account bestaat. Verwijder je je account, dan wissen we je e-mailadres en je account meteen en maken we je naam in oude uitslagen anoniem. Zo blijven de uitslagen en klassementen van andere vissers kloppen.</p>
-      <p>Bestellingen en facturen van advertenties bewaren we langer dan je account, omdat de wet dat vraagt voor de boekhouding. Ze zijn dan niet meer aan je account gekoppeld.</p>
-    </section>
-    <section>
-      <h2>Jouw rechten</h2>
-      <p>Je kunt je gegevens inzien, laten verbeteren, laten wissen en bezwaar maken tegen de verwerking. Je account verwijder je zelf in de app onder Instellingen. Voor andere vragen mail je naar andy.goossens.ag@gmail.com.</p>
-      <p>Ben je niet tevreden, dan kun je een klacht indienen bij de Gegevensbeschermingsautoriteit (gegevensbeschermingsautoriteit.be).</p>
-    </section>
-    <section>
-      <h2>Kinderen</h2>
-      <p>De app is niet bedoeld voor kinderen onder de 13 jaar. Een jonge visser kan wel door een volwassene of door de club worden ingeschreven.</p>
-    </section>
-    <section>
-      <h2>Wijzigingen</h2>
-      <p>Passen we deze verklaring aan, dan zie je dat aan de datum. Laatste wijziging: 12 oktober 2026.</p>
-    </section>
-  </main>
-</body>
-</html>
-
-    <section>
-      <h2>Wie je gegevens kan zien</h2>
-      <p>Clubs, het reglement van een club, de kalender, wedstrijden, deelnemerslijsten, stekken en uitslagen zijn zichtbaar voor iedereen die de app gebruikt, ook zonder account. Dat hoort bij een wedstrijd met een openbare uitslag. Je e-mailadres is niet zichtbaar voor andere gebruikers.</p>
-      <p>Je telefoonnummer en woonplaats zijn alleen voor jou zichtbaar. Je profielfoto zie je zelf altijd; je kiest of niemand, je clubgenoten of iedereen ze ziet. Je kiest ook of anderen je volledige naam zien of je voornaam met een initiaal. De clubleiding van een club waarbij je lid bent, ziet dat je lid bent en kan je aanvraag beoordelen.</p>
-      <p>Een winkel met een lopende advertentie, met naam, adres, contactgegevens, openingsuren en advertentie, is zichtbaar voor iedereen. Je bedragen en betaalgegevens zien alleen jij en de beheerder van de app.</p>
-    </section>
-    <section>
-      <h2>Met wie we gegevens delen</h2>
-      <p>Supabase bewaart de database en de accounts voor ons. We hosten de database in de Europese Unie.</p>
-      <p>De kaart: op een iPhone toont de app de kaart van Apple, op Android de kaart van OpenStreetMap. Daarbij ontvangt de aanbieder van de kaart technische gegevens zoals je IP-adres, volgens zijn eigen privacybeleid. Een bezoek aan de kaart laadt ook een onderdeel (Leaflet) van de dienst unpkg.com.</p>
+      <p>Het weer: voor de wedstrijd waarvoor je ingeschreven bent, vraagt de app het weerbericht op bij Open-Meteo (open-meteo.com). Daarbij gaat alleen de plaats van het water en de datum van de wedstrijd mee, niet je naam of je account. Open-Meteo ontvangt wel technische gegevens zoals je IP-adres, volgens zijn eigen privacybeleid.</p>
       <p>Verder delen we niets met derden.</p>
     </section>
     <section>
